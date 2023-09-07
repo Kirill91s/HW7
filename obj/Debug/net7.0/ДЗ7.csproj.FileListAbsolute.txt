@@ -1,0 +1,15 @@
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\obj\Debug\net7.0\ДЗ7.csproj.AssemblyReference.cache
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\obj\Debug\net7.0\ДЗ7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\obj\Debug\net7.0\ДЗ7.AssemblyInfoInputs.cache
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\obj\Debug\net7.0\ДЗ7.AssemblyInfo.cs
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\obj\Debug\net7.0\ДЗ7.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\bin\Debug\net7.0\ДЗ7.exe
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\bin\Debug\net7.0\ДЗ7.deps.json
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\bin\Debug\net7.0\ДЗ7.runtimeconfig.json
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\bin\Debug\net7.0\ДЗ7.dll
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\bin\Debug\net7.0\ДЗ7.pdb
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\obj\Debug\net7.0\ДЗ7.dll
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\obj\Debug\net7.0\refint\ДЗ7.dll
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\obj\Debug\net7.0\ДЗ7.pdb
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\obj\Debug\net7.0\ДЗ7.genruntimeconfig.cache
+C:\Users\User\Documents\KSP\Практика\ДЗ к семинарам\Семинары\ДЗ7\obj\Debug\net7.0\ref\ДЗ7.dll
